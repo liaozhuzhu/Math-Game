@@ -1,4 +1,3 @@
-#testing github v3
 import tkinter as tk
 import random
 
@@ -300,5 +299,3 @@ def gameWindow():
 
 
 gameWindow()
-
-
